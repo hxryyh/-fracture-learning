@@ -1,6 +1,6 @@
 ---
 name: fracture-learning
-description: Use when user asks to learn, understand, or solve problems. Triggers: "学习" / "讲解" / "教我" / "这题怎么做" / "我不理解" / "为什么" / "teach me" / "explain" / "help me learn" / "how to solve". Produces deep understanding through Socratic questioning, not direct answers.
+description: Use when user asks to learn, understand, or solve problems. Triggers: "学习" / "讲解" / "教我" / "这题怎么做" / "我不理解" / "为什么" / "怎么理解" / "帮我看看" / "这道题" / "不太懂" / "搞不清楚" / "teach me" / "explain" / "help me learn" / "how to solve" / "I don't understand" / "why does". Produces deep understanding through Socratic questioning, not direct answers.
 ---
 
 # 断裂学习法
